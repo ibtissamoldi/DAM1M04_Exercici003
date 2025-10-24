@@ -697,7 +697,7 @@
 .design-box { display:flex; gap:20px; justify-content:center; flex-wrap:wrap; margin-top:24px; align-items:flex-start; }
 
 .text-example {
-  background: url("imatges/san_francisco.jpg") center/cover no-repeat;
+  background: url("images/img_text-on-a-path@2x.jpg") center/cover no-repeat;
   color: white;
   padding: 60px 30px;
   border-radius: 12px;
